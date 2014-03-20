@@ -1,0 +1,4 @@
+anthony_crud:
+    resource: "@AnthonyCrudBundle/Resources/config/routing.yml"
+    prefix:   /
+
